@@ -4,7 +4,7 @@ on:
     branches:
     - main
     - master
-    - branch
+    - branchX
     paths:
     - .github/workflows/semgrep.yml
   schedule:
